@@ -1,0 +1,76 @@
+/* Inserta tu CSS aqui */
+
+*
+{
+	color: #8B008B;
+	font-weight: bold;
+}
+a>li
+{
+	display: inline-block;
+	margin-left:15%;
+	padding: 1%;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+.standar
+{
+	width: 100%;
+}
+.paisaje
+{
+	border: 3px #C71585 groove;
+	padding: 1%;
+}
+.imgcirculo
+{	
+	display: inline-block;
+	background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+    padding: 1%;
+    margin: 15%;
+    margin-left: 50%;
+    border: 3px #20B2AA ridge;
+
+}
+.fotofondo
+{
+	background-image: url("../img/fondo/tile1.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	margin-left: 0.2%;
+	border: 2px #F08080 dashed;
+	
+}
+.peque{
+	margin-left: 15%;
+	
+	float:left;
+
+}
+p{
+	font-style: italic;
+	padding: 2%;
+}
+.fotofondologo
+{
+	position: absolute;
+	bottom: 81%;
+	left: 44%;
+}
+
+.lema
+{
+	position: absolute;
+	bottom: 70%;
+	left: 70%;
+	font-size: 
+}
+.fotopie
+{
+	background-image: url("../img/fondo/tile2.png");
+	border: 2px #F08080 groove;
+	margin-left: 0.3%;
+}
